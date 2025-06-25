@@ -77,7 +77,7 @@ lista insert(lista lst, int pos, int valor){
     return lst;
 }
 
-lista removeElem(lista lst, int pos){
+int removeElem(lista lst, int pos){
     if(pos < 0 || pos >= lst -> tam || lst -> tam == 0){
         return lst;
     }
@@ -91,7 +91,7 @@ lista removeElem(lista lst, int pos){
     }
     else if(pos == lst -> tam - 1){  // (confirma se é o último elemento)
         aux = lst -> ult;
-        lst -> ult = lst -> ult -> ant;
+        lst -> ult = aux -> ant;
         lst -> ult -> prox = NULL;
     }
     else{  // (cornfirma que é outro elemento)
@@ -103,10 +103,11 @@ lista removeElem(lista lst, int pos){
         aux -> ant -> prox = aux -> prox;
         aux -> prox -> ant = aux -> ant;
     }
+    int salva_dado = aux -> dado; // (salva o dado)
     free(aux); // (limpa o conteúdo do nó)
     aux = NULL; // (apaga o nó)
     lst -> tam--;
-    return lst;
+    return salva_dado;
 }
 
 int getElem(lista lst, int pos){
