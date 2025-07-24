@@ -1,0 +1,6 @@
+id, nome, fabricante, preço, quantidade_estocada  
+1, Celular Galaxy S22, Samsung, 3499.99, 15  
+2, Notebook Aspire 5, Acer, 4299.90, 8  
+3, Fone Bluetooth AirDots, Xiaomi, 199.99, 30  
+4, Smart TV 50 Polegadas, LG, 2599.00, 10  
+5, Impressora LaserJet Pro, HP, 879.50, 5  

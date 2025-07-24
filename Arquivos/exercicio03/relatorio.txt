@@ -1,0 +1,101 @@
+
+ RELATÓRIO DE PROPRIETÁRIOS E VEÍCULOS
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ João da Silva   | joao.silva@email.com      
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ ABC1D23 | Fiesta    | Ford      
+ DEF2H34 | Civic     | Honda     
+ STU7P89 | Sandero   | Renault   
+ DEF1B21 | C4 Cactus  | Citroën  
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Maria Oliveira   | maria.oliveira@email.com  
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ XYZ9K87 | Gol       | Volkswagen
+ VWX8Q90 | Sportage  | Kia       
+ HIJ2U34 | A3        | Audi      
+ NOP4W56 | Renegade  | Jeep      
+ WXY7Z89 | Cruze     | Chevrolet 
+ MNO4E54 | Hilux     | Toyota    
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Carlos Pereira   | carlos.pereira@email.com  
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ GHI3L45 | Corolla   | Toyota    
+ MNO5N67 | Uno       | Fiat      
+ TUV6Y78 | 208       | Peugeot   
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Ana Souza        | ana.souza@email.com       
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ JKL4M56 | Onix      | Chevrolet 
+ EFG1T23 | X1        | BMW       
+ ABC0A10 | Mobi      | Fiat      
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Pedro Lima       | pedro.lima@email.com      
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ PQR6O78 | HB20      | Hyundai   
+ YZA9R01 | Sentra    | Nissan    
+ GHI2C32 | Ranger    | Ford      
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Beatriz Costa    | beatriz.costa@email.com   
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ BCD0S12 | Lancer    | Mitsubishi
+ QRS5X67 | Polo      | Volkswagen
+
+ ----------------------------------
+
+ PROPRIETÁRIO:
+
+ Nome             | E-mail
+ Lucas Fernandes  | lucas.fernandes@email.com 
+
+ VEÍCULOS
+
+ Placa   | Modelo    | Marca
+ KLM3V45 | C-Class   | Mercedes-Benz
+ JKL3D43 | Tucson    | Hyundai   

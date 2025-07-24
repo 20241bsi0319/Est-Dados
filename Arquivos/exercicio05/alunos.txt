@@ -1,0 +1,15 @@
+2023001, João Pedro, Sistemas, 7.5, 8.0, 6.5
+2023002, Maria Eduarda, Direito, 9.0, 7.5, 8.5
+2023003, Lucas Andrade, Engenharia, 6.0, 7.0, 6.5
+2023004, Ana Clara, Psicologia, 8.5, 9.0, 9.5
+2023005, Rafael Gomes, Sistemas, 5.0, 6.0, 5.5
+2023006, Bianca Leal, Administração, 8.0, 7.0, 8.0
+2023007, Felipe Costa, Engenharia, 6.5, 7.0, 6.0
+2023008, Júlia Souza, Letras, 7.0, 8.0, 8.0
+2023009, Pedro Henrique, Direito, 4.0, 5.5, 6.0
+2023010, Mariana Alves, Sistemas, 9.5, 9.0, 10.0
+2023011, Gustavo Lima, Psicologia, 6.5, 7.5, 8.0
+2023012, Lara Ribeiro, Engenharia, 7.5, 7.0, 7.0
+2023013, Daniel Rocha, Administração, 8.0, 6.0, 5.5
+2023014, Camila Mendes, Letras, 7.0, 6.5, 7.0
+2023015, Bruno Marques, Sistemas, 9.0, 9.0, 8.5

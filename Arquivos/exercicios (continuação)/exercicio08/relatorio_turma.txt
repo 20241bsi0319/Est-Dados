@@ -1,0 +1,23 @@
+
+RELATORIO FINAL DE NOTAS: 
+MEDIA FINAL DE CADA ALUNO:
+
+2023001 - Carlos Silva, MF: 7.17
+2023002 - Fernanda Lima, MF: 9.50
+2023003 - Bruno Souza, MF: 5.17
+2023004 - Paula Mendes, MF: 7.00
+2023005 - Luciana Rocha, MF: 5.83
+
+MEDIA DA TURMA: 6.93
+
+ALUNOS APROVADOS:
+Carlos Silva
+Fernanda Lima
+Paula Mendes
+
+ALUNOS REPROVADOS:
+Bruno Souza
+Luciana Rocha
+
+ALUNO COM MAIOR MEDIA:
+Fernanda Lima

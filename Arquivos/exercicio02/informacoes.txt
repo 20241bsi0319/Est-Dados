@@ -1,0 +1,12 @@
+101,2,1,Carlos Silva,12345678,35,Professor,Joana Silva,87654321,33,Enfermeira
+102,3,2,Maria Souza,23456789,40,Engenheira,Pedro Souza,98765432,42,Advogado,Lucas Souza,11223344,18,Estudante
+103,1,1,José Santos,34567890,55,Aposentado
+104,2,1,Ana Lima,45678901,29,Designer,Fábio Lima,10987654,30,Programador
+105,3,2,Marcos Dias,56789012,38,Arquiteto,Renata Dias,21098765,35,Contadora,Bruno Dias,31415926,10,Estudante
+106,2,2,Paula Costa,67890123,45,Médica,André Costa,32109876,46,Empresário
+107,1,1,Tiago Pinto,78901234,25,Desenvolvedor
+108,3,2,Sandra Melo,89012345,31,Gerente,Ricardo Melo,43210987,34,Vendedor,Carla Melo,54321098,5,Criança
+109,2,1,Fernando Rocha,90123456,60,Engenheiro,Cleusa Rocha,65432109,58,Dona de Casa
+110,1,1,Juliana Araújo,01234567,27,Psicóloga
+111,3,2,Patrícia Borges,13579246,37,Nutricionista,João Borges,24681357,39,Professor,Laura Borges,35792468,16,Estudante
+112,2,1,Henrique Alves,97531864,44,Mecânico,Letícia Alves,86429753,40,Farmacêutica

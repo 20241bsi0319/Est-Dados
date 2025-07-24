@@ -1,0 +1,17 @@
+
+RELATÓRIO DE PRODUTOS:
+ ID | NOME                      | FABRICANTE | PREÇO      | QTD
+-------------------------------------------------------------
+ 1  |  Celular Galaxy S22       |  Samsung   | R$ 3499.99 |  15
+ 2  |  Notebook Aspire 5        |  Acer      | R$ 4299.90 |   8
+ 3  |  Fone Bluetooth AirDots   |  Xiaomi    | R$  199.99 |  30
+ 4  |  Smart TV 50 Polegadas    |  LG        | R$ 2599.00 |  10
+ 5  |  Impressora LaserJet Pro  |  HP        | R$  879.50 |   5
+
+PRODUTO MAIS CARO:
+
+ Notebook Aspire 5 (R$4299.90)
+
+PRODUTO DE MAIOR QUANTIDADE:
+
+ Fone Bluetooth AirDots (30)

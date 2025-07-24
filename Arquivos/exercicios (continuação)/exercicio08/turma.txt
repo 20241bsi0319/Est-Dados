@@ -1,0 +1,6 @@
+5
+2023001;Carlos Silva;8.5;7.0;6.0
+2023002;Fernanda Lima;9.0;9.5;10.0
+2023003;Bruno Souza;5.0;6.0;4.5
+2023004;Paula Mendes;7.0;7.0;7.0
+2023005;Luciana Rocha;6.0;5.5;6.0
