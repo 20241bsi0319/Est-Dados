@@ -5,17 +5,22 @@ typedef struct E{
     int dado;
     struct E *ant;
     struct E *prox;
+} no;
+
+typedef struct{
+    no *inicio;
+    no *fim;
     int tam;
-} *lista;
+} lista;
 
 lista new_lista(){
-    lista lst = (lista)malloc(sizeof(struct E));
+    lista *lst = (lista)malloc(sizeof(struct E));
     if(lst != NULL){
-        lst -> dado = 0;
-        lst -> ant = NULL;
-        lst -> prox = NULL;
+        lst -> tam = 0;
+        lst -> inicio = NULL;
+        lst -> fim = NULL;
     }
-    return lst;
+    return *lst;
 }
 
 int len(lista lst){
@@ -26,12 +31,12 @@ int len(lista lst){
     return tam;
 }
 
-lista append(lista lst, int valor){
-    lista no = (lista)malloc(sizeof(struct E));
-    no -> dado = valor;
-    no -> ant = lst;
-    no -> prox = NULL;
-    return no;
+no append(lista *lst, int valor){
+    no *aux = (no*)malloc(sizeof(aux));
+    aux -> dado = valor;
+    aux -> ant = lst;
+    aux -> prox = NULL;
+    return aux;
 }
 
 int main(){
