@@ -1,0 +1,57 @@
+ID, Nome, Categoria, Marca, Preço (R$), Garantia (anos), Quantidade em Estoque
+1, Monitor LED, Monitor, Samsung, 1.200,00, 3, 20
+2, Teclado Mecânico RGB, Teclado, Corsair, 800,00, 2, 30
+3, Mouse Óptico Sem Fio, Mouse, Logitech, 250,00, 1, 50
+4, Placa de Vídeo GTX 1660, Placa de Vídeo, Gigabyte, 2.200,00, 3, 15
+5, SSD 1TB NVMe, Armazenamento, Kingston, 900,00, 5, 40
+6, Memória RAM 32GB, Memória, Crucial, 700,00, 2, 35
+7, Processador Ryzen 7, Processador, AMD, 2.300,00, 3, 25
+8, Fonte de Alimentação 600W, Fonte de Alimentação, Cooler Master, 500,00, 4, 30
+9, Headset Gamer, Headset, HyperX, 350,00, 2, 45
+10, Monitor Curvo 32", Monitor, AOC, 2.500,00, 3, 10
+11, Notebook Gamer, Notebook, Dell, 7.000,00, 2, 8
+12, Impressora Laser, Impressora, Brother, 1.500,00, 2, 18
+13, Mousepad RGB, Acessório, Razer, 150,00, 1, 60
+14, Tablet Android 10", Tablet, Lenovo, 1.200,00, 1, 12
+15, Switch de Rede 16 portas, Rede, TP-Link, 400,00, 3, 25
+16, Webcam 1080p, Acessório, Microsoft, 350,00, 2, 30
+17, Roteador Wi-Fi 6, Rede, Asus, 1.100,00, 2, 22
+18, HD Externo 4TB, Armazenamento, Seagate, 650,00, 3, 28
+19, Placa Mãe ATX, Placa Mãe, MSI, 1.000,00, 3, 20
+20, Cooler para CPU, Acessório, Noctua, 300,00, 4, 35
+21, Monitor 24" Full HD, Monitor, LG, 800,00, 3, 18
+22, Teclado Sem Fio, Teclado, Logitech, 200,00, 2, 45
+23, Mouse Gamer RGB, Mouse, Razer, 350,00, 2, 50
+24, Placa de Vídeo RTX 3080, Placa de Vídeo, EVGA, 5.000,00, 3, 12
+25, SSD 512GB SATA, Armazenamento, Crucial, 500,00, 5, 55
+26, Memória RAM 8GB, Memória, Kingston, 300,00, 2, 60
+27, Processador Core i5, Processador, Intel, 1.500,00, 3, 30
+28, Fonte de Alimentação 500W, Fonte de Alimentação, Corsair, 400,00, 3, 40
+29, Headset Bluetooth, Headset, Sony, 450,00, 2, 28
+30, Monitor 27" 4K, Monitor, Dell, 3.000,00, 3, 15
+31, Notebook Ultrafino, Notebook, Asus, 6.500,00, 1, 10
+32, Impressora Jato de Tinta, Impressora, Epson, 900,00, 2, 20
+33, Mouse Ergonômico, Mouse, Microsoft, 300,00, 1, 35
+34, Tablet Windows 10", Tablet, Microsoft, 3.500,00, 2, 10
+35, Switch de Rede 24 portas, Rede, Cisco, 1.200,00, 5, 12
+36, Teclado Gamer Compacto, Teclado, SteelSeries, 450,00, 2, 38
+37, Monitor Ultrawide 34", Monitor, LG, 3.800,00, 3, 10
+38, SSD 2TB NVMe, Armazenamento, Samsung, 1.200,00, 5, 25
+39, Placa de Som Externa, Acessório, Creative, 250,00, 2, 40
+40, Webcam 4K, Acessório, Logitech, 600,00, 2, 22
+41, Placa Mãe Micro ATX, Placa Mãe, ASUS, 800,00, 3, 18
+42, Roteador Dual-Band, Rede, D-Link, 300,00, 2, 35
+43, Monitor Full HD 21.5", Monitor, Acer, 600,00, 3, 22
+44, Teclado Multimídia, Teclado, Microsoft, 150,00, 2, 50
+45, Mouse Sem Fio, Mouse, HP, 200,00, 2, 55
+46, Placa de Vídeo RX 570, Placa de Vídeo, AMD, 1.600,00, 3, 20
+47, SSD 256GB NVMe, Armazenamento, ADATA, 400,00, 5, 50
+48, Memória RAM 16GB, Memória, Corsair, 450,00, 2, 45
+49, Processador Core i9, Processador, Intel, 3.500,00, 3, 15
+50, Fonte de Alimentação 750W, Fonte de Alimentação, EVGA, 650,00, 4, 25
+51, Headset com Microfone, Headset, JBL, 250,00, 2, 30
+52, Monitor 19", Monitor, Philips, 450,00, 3, 28
+53, Notebook 15.6", Notebook, Acer, 4.200,00, 2, 12
+54, Impressora Multifuncional, Impressora, Canon, 1.000,00, 2, 18
+55, Mousepad Gamer, Acessório, Corsair, 120,00, 1, 60
+56, Tablet Android 8", Tablet, Samsung, 1.000,00, 1, 20
