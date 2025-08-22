@@ -1,0 +1,61 @@
+
+RELATORIO TOTAL EM ESTOQUE (R$)
+
+ Samsung           3600.00
+ Corsair           1600.00
+ Logitech           250.00
+ Gigabyte          6600.00
+ Kingston          4500.00
+ Crucial           1400.00
+ AMD               6900.00
+ Cooler Master     2000.00
+ HyperX             700.00
+ AOC               7500.00
+ Dell             14000.00
+ Brother           3000.00
+ Razer              150.00
+ Lenovo            1200.00
+ TP-Link           1200.00
+ Microsoft          700.00
+ Asus              2200.00
+ Seagate           1950.00
+ MSI               3000.00
+ Noctua            1200.00
+ LG                2400.00
+ Logitech           400.00
+ Razer              700.00
+ EVGA           2580379858532006500000000000000000.00
+ Crucial        2581445879648336100000000000000000.00
+ Kingston           600.00
+ Intel             4500.00
+ Corsair           1200.00
+ Sony               900.00
+ Dell              9000.00
+ Asus           2630216539148547500000000000000000.00
+ Epson             1800.00
+ Microsoft           -1.#R
+ Microsoft         7000.00
+ Cisco             6000.00
+ SteelSeries        900.00
+ LG               11400.00
+ Samsung           6000.00
+ Creative           500.00
+ Logitech       2579061452390167500000000000000000.00
+ ASUS              2400.00
+ D-Link         2646452432248785100000000000000000.00
+ Acer              1800.00
+ Microsoft          300.00
+ HP                 400.00
+ AMD               4800.00
+ ADATA             2000.00
+ Corsair            900.00
+ Intel            10500.00
+ EVGA              2600.00
+ JBL                500.00
+ Philips           1350.00
+ Acer           -11933947904.00
+ Canon          1083895500443107300000000000000000.00
+ Corsair            120.00
+ Samsung        2751740772352.00
+MAIOR TOTAL EM ESTOQUE:  EVGA, 15000.00
+MENOR TOTAL EM ESTOQUE:  Corsair, 120.00
